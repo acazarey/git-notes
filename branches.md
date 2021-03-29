@@ -1,0 +1,2 @@
+Git Branches is a way have the main code or default code named the "Master branch" and you can add commit or new version of
+the code. It will keep track of all the commit or version of the code from the "Master branch".
